@@ -45,7 +45,7 @@ body {
 }
 
 .border-text.show {
-    height: auto;
+    height: 250px;
     transition: height 1s linear;
 }
 
